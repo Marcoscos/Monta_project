@@ -12,7 +12,7 @@ the CPs and perhaps go to work to their offices, where their interest is not to 
 The project studies how different models: historical averages, classical time series models, recurrent neural networks and probabilistic RNNs forecast the price of electricity, first with a focus in NO1 region and later across Scandinavian countries. The results of this generalization can be defined by the ratio of much improvement do these models achieve with regards to the RMSE of forecasting with hisotrical averages. These can be seen below:
 
 
-![results_regions](https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/ivorr/Documents/GitHub/Monta_project/Results%20of%20models%20across%20regions.png?version%3D1656258017081)
+![results_regions](Results%20of%20models%20across%20regions.png)
 
 
 
